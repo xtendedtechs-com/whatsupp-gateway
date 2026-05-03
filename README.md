@@ -416,4 +416,5 @@ npm test
 
 ## License
 
-MIT. See [LICENSE](./LICENSE).
+UNLICENSED — proprietary, internal use only. No rights granted to redistribute
+or use outside the owning organization.
