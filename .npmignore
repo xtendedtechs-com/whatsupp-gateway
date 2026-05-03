@@ -1,0 +1,10 @@
+src
+test
+examples
+.github
+tsconfig*.json
+tsup.config.ts
+vitest.config.ts
+*.tgz
+.env*
+node_modules

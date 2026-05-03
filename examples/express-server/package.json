@@ -1,0 +1,19 @@
+{
+  "name": "example-express-server",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "tsx server.ts"
+  },
+  "dependencies": {
+    "@xtendedtechs/whatsapp-gateway": "file:../..",
+    "express": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.6.0"
+  }
+}

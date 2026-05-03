@@ -1,0 +1,16 @@
+{
+  "name": "example-standalone-script",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "send": "tsx send.ts"
+  },
+  "dependencies": {
+    "@xtendedtechs/whatsapp-gateway": "file:../.."
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.6.0"
+  }
+}
